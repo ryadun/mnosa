@@ -1,0 +1,20 @@
+Package: mnosa
+Title: Minnesota Office of the State Auditor Data and Tools
+Version: 1.0.1
+Authors@R: 
+    person("Ryan", "Dunlap", role = c("aut", "cre"))
+Description: Data package and tools for interacting with city financial information from the MN Office of the State Auditor.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
+Imports: 
+    dplyr,
+    magrittr,
+    purrr,
+    readr,
+    rvest,
+    tidyr
+Depends: 
+    R (>= 2.10)
+LazyData: true

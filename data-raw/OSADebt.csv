@@ -1,0 +1,76 @@
+Variable,Description
+filename,Original file name the data is from
+entity_id,Unique identifier for city. This is the same as the eid.
+entity_name,City name
+parent_entity_name,County name
+financial_year,Year of data
+class_code,City classification code based on census population
+population,Population
+gen_obligation,General obligation debt
+gen_ob_tax_incr,General obligation tax increment financing
+revenue_tax_incr,Revenue from tax increment financing
+spec_assessment,Special assessment revenue
+gen_ob_revenue,General obligation revenue
+revenue,Total revenue
+other,Other revenue
+bond_os_begin_yr,bond_os_begin_yr
+bond_adjustment,bond_adjustment
+bond_issue_yr,bond_issue_yr
+bond_paid_yr,bond_paid_yr
+refunding_bonds,refunding_bonds
+olt_begin,olt_begin
+olt_adjustment,olt_adjustment
+olt_issued,olt_issued
+olt_paid,olt_paid
+short_term_begin,short_term_begin
+short_term_issued,short_term_issued
+short_term_paid,short_term_paid
+workers_comp,workers_comp
+comp_absence,comp_absence
+gen_fund_res,gen_fund_res
+gen_fund_desig,gen_fund_desig
+gen_fund_undesig,gen_fund_undesig
+spec_rev_res,spec_rev_res
+spec_rev_desig,spec_rev_desig
+spec_rev_undesig,spec_rev_undesig
+debt_svc_res,debt_svc_res
+debt_svc_desig,debt_svc_desig
+debt_svc_undesig,debt_svc_undesig
+cap_proj_res,cap_proj_res
+cap_proj_undesig,cap_proj_undesig
+cap_proj_desig,cap_proj_desig
+ta_reserve,ta_reserve
+ta_desig,ta_desig
+ta_undesig,ta_undesig
+tcu_reserve,tcu_reserve
+tcu_desig,tcu_desig
+tcu_undesig,tcu_undesig
+entr_fnd_cap_asset,entr_fnd_cap_asset
+entr_fnd_reserv,entr_fnd_reserv
+entr_fnd_unreserv,entr_fnd_unreserv
+gaap_ind,gaap_ind
+cash_balance,cash_balance
+other_investmt,other_investmt
+fed_securities,fed_securities
+interfund_beg_yr,interfund_beg_yr
+interfund_issue,interfund_issue
+interfund_paid,interfund_paid
+expr1028,expr1028
+expr1029,expr1029
+expr1030,expr1030
+gen_fund_cash,gen_fund_cash
+gen_fund_fed_sec,gen_fund_fed_sec
+gen_fund_oth_inv,gen_fund_oth_inv
+spec_rev_cash,spec_rev_cash
+spec_rev_fed_sec,spec_rev_fed_sec
+spec_rev_oth_inv,spec_rev_oth_inv
+opeb_liability,opeb_liability
+intl_svc_cap_asset,intl_svc_cap_asset
+intl_svc_unresrv,intl_svc_unresrv
+intl_svc_reserv,intl_svc_reserv
+priv_purp_tr_cap_asset,priv_purp_tr_cap_asset
+priv_purp_tr_reserve,priv_purp_tr_reserve
+priv_purp_tr_un_reserve,priv_purp_tr_un_reserve
+tcure_cap_asset,tcure_cap_asset
+tcure_reserv,tcure_reserv
+tcure_unreserv,tcure_unreserv

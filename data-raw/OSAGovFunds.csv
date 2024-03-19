@@ -1,0 +1,150 @@
+Variable,Description
+filename,Original file name the data is from
+entity_id,Unique identifier for city. This is the same as the eid.
+entity_name,City name
+parent_entity_name,County name
+entity_type,Descriptor of type of entity
+class_code,City classification code based on census population
+population,Estimated population
+financial_year,Year of data
+tax_capacity,Tax capacity
+tax_levy,Total tax levy
+special_assessment_levy,Special assessment levy
+property_taxes,Property taxes collected for general government
+tax_increments,TIF monies collected
+franchise_fees,Franchise fees collected
+sales_tax,Sales taxes collected (for city)
+hotel_motel_tax,Hotel and motel taxes collected
+gambling_tax,Gambling taxes
+gravel_tax,Gravel taxes
+special_assessments,Special Assessments collected
+licenses_and_permits,Licenses and permit fees collected
+federal_cdbg_grants,Federal Community Development Block Grants
+federal_education_grants,Federal Education Grants
+federal_transportation_grants,Federal Transportation Grants
+federal_human_services_grants,Federal Human Services Grants
+federal_emergency_management_aid,Federal Emergency Management Aid
+all_other_federal_grants,All Other Federal Grants
+total_federal_grants,Total Federal Grants
+state_local_government_aid,Local Government Aid (LGA)
+state_market_value_credit_real,Market Value Credit
+state_market_value_credit_ag,Market Value Credit for Agriculture
+state_taconite_homestead_credit,Taconite Homestead Credit
+state_thc,State THC funds
+state_taconite_aids,State Taconite Aid
+state_county_program_aid,State County Program Aid
+state_manufactured_home_homestead_credit,Manufactured Home Homestead Credit
+state_attached_machinery_aid,Attached Machinery Aid
+state_disparity_reduction_aid,Disparity Reduction Aid
+state_transportation_grants,Transportation Grants
+state_human_service_grants,Human Service Grants
+state_criminal_justice_aid,Criminal Justice Aid
+state_pera_aid,Public Employee Retirement Account Aid
+state_highway_grants,State Highway Grants
+state_education_grants,State Education Grants
+state_police_aid,State Police Aid
+state_lpa,State LPA
+state_haca,State HACA
+all_other_state_grants,All Other State Grants
+total_state_grants,Total State Grants
+county_highway_grants,County Highway Grants
+all_other_county_grants,All Other County Grants
+local_irrrb_grants,Local Iron Range Resources and Rehabilitation Board Grants
+all_other_local_grants,All Other Local Grants
+total_intergovernmental_revenues,Total Intergovernmental Revenues
+general_government_fees,General Government Fees
+police_and_fire_contracts,Police and Fire Contracts Revenue
+other_public_safety_fees,Other Public Safety Fees
+street_and_highway_fees,Street and Highway Fees
+sanitation_fees,Sanitation Fees
+library_fees,Library Fees
+park_and_recreation_fees,Park and Recreation Fees
+airport_fees,Airport Fees
+transit_fees,Transit Fees
+cemetery_fees,Cemetery Fees
+all_other_service_charges,All other service charges
+total_charges_for_services,Total charges for services
+fines_and_forfeits,Fines and Forfeitures
+interest_earnings,Interest earnings
+all_other_revenue,All Other Revenue
+total_revenues,Total revenues
+bonds_issued,Bonds issues
+other_long_term_debt_issued,Other long term debt issued
+short_term_debt_issued,Short term debt issued
+other_financing_sources,Other financing sources
+transfers_from_enterprise_funds,Transfers from enterprise funds
+transfers_from_governmental_funds,Transfers from governmental funds
+total_revenues_other_sources,Total revenues from other sources
+governing_board_current_expend,Governening board expenditures
+administration_and_finance_current_expend,Expenditures for administration and finance
+all_other_general_government_current_expend,All other general government current expenditures
+general_government_capital_outlay,General government capital outlay
+police_sheriff_current_expend,Police and sheriff current expenditures
+police_sheriff_capital_outlay,Police and sheriff capital outlay
+corrections_current_expend,Corrections and jail current expenditure
+corrections_capital_outlay,Corrections and jail capital outlay
+ambulance_current_expend,Ambulance current expenditures
+ambulance_capital_outlay,Ambulance capital outlay
+fire_current_expend,Fire current expenditures
+fire_capital_outlay,Fire capital outlay
+all_other_public_safety_current_expend,All other public safety current expenditures
+all_other_public_safety_capital_outlay,All other public safety capital outlay
+total_public_safety_capital_outlay,Total public safety capital outlay
+street_highway_maintenance,Street highway maintenance
+snow_and_ice_removal,Snow and ice removal
+street_highway_engineering,Street highway engineering
+street_lighting,Street lighting
+street_highway_construction,Street highway construction
+all_other_street_highway_capital_outlay,All other street highway capital outlay
+refuse_collection_and_disposal_current_expend,Refuse collection and disposal current expenditures
+all_other_sanitation_current_expend,All other sanitation current expenditures
+sanitation_capital_outlay,Sanitation capital outlay
+health_current_expend,Health current expenditures
+health_capital_outlay,Heatlh capital outlay
+library_current_expenditures,Library current expenditures
+library_capital_outlay,Library capital outlay
+park_recreation_current_expend,Park and recreation current expenditure
+park_recreation_capital_outlay,Park and recreation capital outlay
+housing_urban_redevelopment_current_expend,Housing and urban redevelopment current expenditures
+housing_urban_redevelopment_capital_outlay,Housing and urban redevelopment capital outlay
+economic_development_current_expenditures,Economic development current expenditures
+economic_development_capital_outlay,Economic development capital outlay
+conservation_of_natural_resources_current_expend,Conservation of natural resources current expenditures
+conservation_of_natural_resources_capital_outlay,Conservation of natural resources capital outlay
+airport_current_expend,Airport current expenditures
+airport_capital_outlay,Airport capital outlay
+transit_current_expend,Transit current expenditures
+transit_capital_outlay,Transit capital outlay
+cemetery_current_expend,Cemetary current expenditures
+cemetery_capital_outlay,Cemetary capital outlay
+unallocated_pension_costs,Unallocated pension costs
+unallocated_insurance_costs,Unallocated insurance costs
+all_other_current_expend,All other current expenditures
+all_other_capital_outlay,All other capital outlay
+capital_outlay_for_enterprise_funds,Capital outlay for enterprise funds
+total_current_expenditures,Total current expenditures
+total_capital_outlay,Total capital outlay
+bond_principal_payments,Bond principal payments
+other_long_term_debt_principal_payments,Other long term debt principal payments
+interest_payments_fiscal_charges,Interest payments fiscal charges
+total_expenditures,Total expenditures
+principal_payments_refunded_bonds,Principal payments on refunded bonds
+other_financing_uses,Other financing uses
+transfers_to_enterprise_funds,Transfers to enterprise funds
+transfers_to_governmental_funds,Transfers to governmental funds
+total_expenditures_other_uses,Total expenditures other uses
+tn_water_ce,Town water capital expense
+tn_water_co,Town water capital outlay
+tn_water_charge,Town water charges
+admin_fines,Admin fines
+street_highway_administration,Street highway administration
+human_service_income_maintenance,Human service income maintenance
+human_services_social_services,Human services social services
+all_other_human_services_current_expenditures,All other human services current expenditures
+human_services_capital_outlay,Human services capital outlay
+education_current_expend,Education current expenditures
+education_capital_outlay,Education capital outlay
+alt_current_expend,Alternative current expenditures
+gaap_ind,Generally Accepted Accounting Practices indicator
+fed_coronavirus_relief_funds,Federal Coronavirus Relief Funds
+
